@@ -6,6 +6,9 @@ public class Shivgami {
 	{
 
 		System.out.println("Bahu tu tr pori chya mag lagla");
+		
+		
+		System.out.println("Ho changli ahe Mulgi krun tak Lgn");
 	}
 
 }
